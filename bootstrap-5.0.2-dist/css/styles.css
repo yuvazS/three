@@ -1,0 +1,58 @@
+#header-nav {
+	background-color: red;
+}
+
+div p {
+	
+}
+
+.container-fluid {
+
+}
+body {
+	background-color: #dddddd;
+}
+
+nav {
+	width: 100%;
+}
+
+hr{
+	margin: 2px;
+	border: 1px solid black;
+}
+a span ,li{
+	background-color: gray;
+	text-align: center;
+	
+}
+
+.collapsable-container {
+	width: 100%;
+}
+
+div #gray-back {
+	background-color: gray;
+	padding: 3px;
+	height: 1000px;
+	margin-top: 30px;
+	overflow: hidden;
+	
+}
+button {
+	min-height: 30px;
+	min-width: 40px;
+	
+	background-color: red;
+}
+
+#center-text {
+	width: 50%;
+	margin-left: auto;
+}
+
+@media (min-width: 767px) {
+	.visible-xs {
+		display: none;
+	}
+}
